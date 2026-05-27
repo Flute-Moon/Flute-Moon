@@ -303,8 +303,8 @@ open_ports:
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Flute-Moon&show_icons=true&theme=radical&hide_border=true&bg_color=0a0e27&title_color=00F5FF&icon_color=FF006E&text_color=ffffff&include_all_commits=true&count_private=true" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Flute-Moon&layout=compact&theme=radical&hide_border=true&bg_color=0a0e27&title_color=00F5FF&text_color=ffffff&langs_count=8" />
+<img height="170" src="https://github-stats.vercel.app/api?username=Flute-Moon&show_icons=true&theme=radical&hide_border=true&bg_color=0a0e27&title_color=00F5FF&icon_color=FF006E&text_color=ffffff&include_all_commits=true&count_private=true" />
+<img height="170" src="https://github-stats.vercel.app/api/top-langs/?username=Flute-Moon&layout=compact&theme=radical&hide_border=true&bg_color=0a0e27&title_color=00F5FF&text_color=ffffff&langs_count=8" />
 
 <br/>
 
