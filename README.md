@@ -270,7 +270,7 @@ open_ports:
 
 ![div](https://capsule-render.vercel.app/api?type=rect&color=0:00F5FF,33:B026FF,66:FF006E,100:00F5FF&height=3&width=100%)
 <br/><br/>
-<img src="https://user-images.githubusercontent.com/74038190/215768208-3bf3dda8-eeea-40ee-a58b-f5ac529685bf.gif" alt="Banner" width="100%" />
+<img src="https://i.pinimg.com/originals/ad/fc/cd/adfccd6a72515359c1c283f912b67616.gif" alt="Banner" width="100%" />
 <br/><br/>
 </div>
 
@@ -291,42 +291,18 @@ src="https://github-readme-activity-graph.vercel.app/graph?username=Flute-Moon&b
 alt="Flute-Moon's Activity Graph" />
 </p>
 
-## 🍄 &nbsp;`> MARIO_WORLD.exe` — Stomping Through My Commits
+## 🍄 &nbsp;`> MARIO_WORLD.exe` — 
 
 <div align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=14&duration=2400&pause=900&color=E60012&center=true&vCenter=true&width=620&lines=%3E+LOADING+WORLD+1-1...;%3E+IT%27S-A+ME%2C+FLUTE-MOON%21;%3E+CHOMP+CHOMP+%E2%80%94+collecting+commits+like+coins;%3E+POWER-UP+%E2%80%94+new+SDK+absorbed!" alt="mario typing" />
 
-<br/><br/>
-
-<!-- ══ MARIO WORLD CHARACTER PARADE ══ -->
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Food/Mushroom.png"                  width="64" alt="Mushroom"     title="Super Mushroom" />&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Turtle.png"                 width="64" alt="Turtle"       title="Koopa Troopa"   />&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Coin.png"                   width="64" alt="Coin"         title="1-up Coin"      />&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Glowing%20Star.png" width="64" alt="Star"     title="Star Power"     />&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Crown.png"                  width="64" alt="Crown"        title="Princess Peach" />&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Joystick.png"            width="64" alt="Joystick"     title="Player 1"       />&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Trophy.png"              width="64" alt="Trophy"       title="World Clear"    />
-
-<br/><br/>
-
-<!-- ══ MARIO LEVEL — pixel-emoji art ══ -->
 
 ![mario-strip-top](https://capsule-render.vercel.app/api?type=rect&color=0:0099E5,50:00BFFF,100:0099E5&height=3&width=100%)
 
-```
-  ☁️           ☁️                ☁️                  ☁️             ☁️
-                                                                                
-   🍄    🪙🪙🪙       ⭐                  🐢          👑                🚩
-                                                                                
-  🟧🟧🟧🟧🟧🟧🟧🟧🟧🟧🟧🟧🟧🟧🟧🟧🟧🟧🟧🟧🟧🟧🟧🟧🟧🟧🟧🟧🟧🟧🟧🟧🟧🟧🟧🟧🟧
-   🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫
-   🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫
-                                                                                
-   >> Flute-Moon → Mushroom → Pipe → Castle → SHIPPED IT! 🏰
-```
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Banner" width="100%" />
 
-![mario-strip-bot](https://capsule-render.vercel.app/api?type=rect&color=0:43B047,50:5cd65c,100:43B047&height=3&width=100%)
+![mario-strip-top](https://capsule-render.vercel.app/api?type=rect&color=0:0099E5,50:00BFFF,100:0099E5&height=3&width=100%)
 
 <br/>
 
