@@ -314,12 +314,12 @@ open_ports:
 <br/><br/>
 
 <!-- Trophies -->
-<img src="https://github-profile-trophy.vercel.app/?username=Flute-Moon&theme=radical&no-frame=true&no-bg=true&column=6&margin-w=10" width="95%" />
+<img src="https://github-trophies.vercel.app/?username=Flute-Moon&theme=radical&no-frame=true&no-bg=true&column=6&margin-w=10" width="95%" />
 
 <br/><br/>
 
 <!-- Activity graph — pulse line -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Flute-Moon&bg_color=0a0e27&color=00F5FF&line=FF006E&point=39FF14&area=true&hide_border=true" width="95%" />
+<img src="https://github-activity-graph.vercel.app/graph?username=Flute-Moon&bg_color=0a0e27&color=00F5FF&line=FF006E&point=39FF14&area=true&hide_border=true" width="95%" />
 
 </div>
 
