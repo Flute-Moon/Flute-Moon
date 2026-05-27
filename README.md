@@ -269,61 +269,27 @@ open_ports:
 </div>
 
 ![div](https://capsule-render.vercel.app/api?type=rect&color=0:00F5FF,33:B026FF,66:FF006E,100:00F5FF&height=3&width=100%)
-## 🎮 &nbsp;`> GAMER_PROFILE.cfg`
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=14&duration=2400&pause=900&color=FF006E&center=true&vCenter=true&width=620&lines=%3E+SELECT+YOUR+GAME...;%3E+FPS+%E2%80%94+headshot+or+nothing;%3E+OPEN+WORLD+%E2%80%94+ignore+the+main+quest;%3E+STRATEGY+%E2%80%94+1000+IQ+plays+only;%3E+POK%C3%89MON+%E2%80%94+always+the+main+quest" alt="gamer typing" />
-
 <br/><br/>
-
-**🕹️ &nbsp;PLATFORMS**
-
-![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=00F5FF)
-![PlayStation](https://img.shields.io/badge/PlayStation-003087?style=for-the-badge&logo=playstation&logoColor=00F5FF)
-![Xbox](https://img.shields.io/badge/Xbox-107C10?style=for-the-badge&logo=xbox&logoColor=white)
-![Epic](https://img.shields.io/badge/Epic%20Games-313131?style=for-the-badge&logo=epicgames&logoColor=white)
-![Mobile](https://img.shields.io/badge/Mobile-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-
-<br/>
-
-**🎖️ &nbsp;PLAYSTYLE BADGES**
-
-![fps](https://img.shields.io/badge/🎯%20FPS%20main-FF006E?style=for-the-badge)
-![openworld](https://img.shields.io/badge/🗺️%20Open%20World%20explorer-B026FF?style=for-the-badge)
-![strategy](https://img.shields.io/badge/♟️%20Strategy%20enjoyer-00F5FF?style=for-the-badge&logoColor=black)
-![nightowl](https://img.shields.io/badge/🌙%20Night%20owl%20gamer-0a0e27?style=for-the-badge)
-![achievement](https://img.shields.io/badge/🏆%20Achievement%20hunter-39FF14?style=for-the-badge)
-
+<img src="https://user-images.githubusercontent.com/74038190/215768208-3bf3dda8-eeea-40ee-a58b-f5ac529685bf.gif" alt="Banner" width="100%" />
+<br/><br/>
 </div>
 
 ![div](https://capsule-render.vercel.app/api?type=rect&color=0:00F5FF,33:B026FF,66:FF006E,100:00F5FF&height=3&width=100%)
-
-## 📊 &nbsp;`> GITHUB_TELEMETRY.log`
-
-<div align="center">
-
-<img height="170" src="https://github-stats.vercel.app/api?username=Flute-Moon&show_icons=true&theme=radical&hide_border=true&bg_color=0a0e27&title_color=00F5FF&icon_color=FF006E&text_color=ffffff&include_all_commits=true&count_private=true" />
-<img height="170" src="https://github-stats.vercel.app/api/top-langs/?username=Flute-Moon&layout=compact&theme=radical&hide_border=true&bg_color=0a0e27&title_color=00F5FF&text_color=ffffff&langs_count=8" />
-
-<br/>
-
-<!-- Streak — neon palette -->
-<img src="https://streak-stats.demolab.com/?user=Flute-Moon&theme=radical&hide_border=true&background=0a0e27&stroke=00F5FF&ring=FF006E&fire=FF006E&currStreakLabel=00F5FF&sideLabels=ffffff&dates=ffffff" />
-
-<br/><br/>
-
-<!-- Trophies -->
-<img src="https://github-trophies.vercel.app/?username=Flute-Moon&theme=radical&no-frame=true&no-bg=true&column=6&margin-w=10" width="95%" />
-
-<br/><br/>
-
-<!-- Activity graph — pulse line -->
-<img src="https://github-activity-graph.vercel.app/graph?username=Flute-Moon&bg_color=0a0e27&color=00F5FF&line=FF006E&point=39FF14&area=true&hide_border=true" width="95%" />
-
-</div>
-
-![div](https://capsule-render.vercel.app/api?type=rect&color=0:00F5FF,33:B026FF,66:FF006E,100:00F5FF&height=3&width=100%)
+## 📊 GitHub Stats & Trophies
+<p align="center">
+<a href="https://github.com/Flute-Moon">
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Flute-Moon&cache_seconds=7200&layout=compact&theme=tokyonight&border_radius=10" alt="Flute-Moon's GitHub Stats" />
+</a>
+<img src="https://streak-stats.demolab.com/?user=Flute-Moon&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="Flute-Moon's GitHub Streak" width="49%" />
+</p>
+<p align="center">
+<img src="https://trophy.ryglcloud.net/?username=Flute-Moon&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="'s GitHub Trophies" />
+</p>
+<p align="center">
+<img height="280em" 
+src="https://github-readme-activity-graph.vercel.app/graph?username=Flute-Moon&bg_color=0d1117&color=00F5FF&line=B026FF&point=FF006E&area=true&hide_border=true&radius=10" 
+alt="Flute-Moon's Activity Graph" />
+</p>
 
 ## 🍄 &nbsp;`> MARIO_WORLD.exe` — Stomping Through My Commits
 
@@ -375,12 +341,10 @@ open_ports:
 
 🍄 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 🍄
 
-<!-- Mario-themed contribution graph (re-using the snake SVG but framed as Mario's run) -->
-<picture>
-  <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
-  <img alt="contribution level — Mario style" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
-</picture>
+<p align="center">
+<img src="https://raw.githubusercontent.com/czl9707/gh-space-shooter/main/example.gif" alt="Space shooter contribution graph" />
+</p>
+
 
 <sub>↑ &nbsp;<i>imagine that's Mario running through the level, gobbling green-square coins</i> &nbsp;🍄🪙</sub>
 
@@ -426,6 +390,17 @@ open_ports:
 <sub>⚡ &nbsp;<i>"Pika pika!"</i> &nbsp;— thanks for visiting my little corner of the cyber-cosmos &nbsp; 🌙🤖</sub>
 
 </div>
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" alt="Bottom Line" width="100%" />
+</div>
 
 <!-- ══════════ NEON FOOTER WAVE ══════════ -->
-![footer](https://capsule-render.vercel.app/api?type=waving&color=0:FF006E,33:B026FF,66:00F5FF,100:39FF14&height=140&section=footer&animation=twinkling)
+<p align="center">
+  <img width="100%" 
+  src="https://capsule-render.vercel.app/api?type=waving&color=0:39FF14,33:00F5FF,66:B026FF,100:FF006E&height=180&section=footer&animation=twinkling"/>
+</p>
+
+
+
+
+
